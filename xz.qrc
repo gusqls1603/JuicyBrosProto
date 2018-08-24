@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>image/apple.jpg</file>
+    <file>image/carrot.jpg</file>
+    <file>image/Mainjuicebro.jpg</file>
+    <file>image/Mainjuicebro.jpg</file>
+    <file>image/BeatBooster.jpg</file>
+    <file>image/FastRestore.jpg</file>
+    <file>image/GentleVine.jpg</file>
+    <file>image/GingerBless.jpg</file>
+    <file>image/GrassCooler.jpg</file>
+    <file>image/GreenHope.jpg</file>
+    <file>image/GreenWave.jpg</file>
+    <file>image/HappyOrange.jpg</file>
+    <file>image/SkyWalker.jpg</file>
+    <file>image/SweetJoy.jpg</file>
+    <file>image/VirginComeback.jpg</file>
+    <file>image/back.png</file>
+    <file>image/next.png</file>
+    <file>image/join_icon.png</file>
+    <file>image/login_icon.png</file>
+    <file>image/juicebro.jpg</file>
+  </qresource>
+</RCC>
